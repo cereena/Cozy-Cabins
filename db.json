@@ -22,11 +22,11 @@
       "Bedroom": 2,
       "type": "Appartment",
       "images": [
-        "/images/rent3.jpg",
-        "/images/living1.jpg",
-        "/images/room1.jpg",
-        "/images/extra1.jpg",
-        "/images/kitchen1.jpg"
+        "https://cozy-cabins-frontend.vercel.app/images/rent3.jpg",
+        "https://cozy-cabins-frontend.vercel.app/images/living1.jpg",
+        "https://cozy-cabins-frontend.vercel.app/images/room1.jpg",
+        "https://cozy-cabins-frontend-8c2w.vercel.app/images/extra1.jpg",
+        "https://cozy-cabins-frontend.vercel.app/images/kitchen1.jpg"
       ]
     },
     {
@@ -37,11 +37,11 @@
       "Bedroom": 3,
       "type": "House",
       "images": [
-        "/images/rent1.jpg",
-        "/images/living3.jpg",
-        "/images/room3.jpg",
-        "/images/extra3.jpg",
-        "/images/kitchen3.jpg"
+        "https://cozy-cabins-frontend.vercel.app/images/rent1.jpg",
+        "https://cozy-cabins-frontend.vercel.app/images/living3.jpg",
+        "https://cozy-cabins-frontend.vercel.app/images/room3.jpg",
+        "https://cozy-cabins-frontend.vercel.app/images/extra3.jpg",
+        "https://cozy-cabins-frontend.vercel.app/images/kitchen3.jpg"
       ]
     },
     {
@@ -52,11 +52,11 @@
       "Bedroom": 2,
       "type": "House",
       "images": [
-        "/images/rent2.jpg",
-        "/images/living2.jpg",
-        "/images/room2.jpg",
-        "/images/extra2.jpg",
-        "/images/kitchen2.jpg"
+        "https://cozy-cabins-frontend.vercel.app/images/rent2.jpg",
+        "https://cozy-cabins-frontend.vercel.app/images/living2.jpg",
+        "https://cozy-cabins-frontend.vercel.app/images/room2.jpg",
+        "https://cozy-cabins-frontend.vercel.app/images/extra2.jpg",
+        "https://cozy-cabins-frontend.vercel.app/images/kitchen2.jpg"
       ]
     },
     {
@@ -67,11 +67,11 @@
       "Bedroom": 3,
       "type": "Appartment",
       "images": [
-        "/images/rent4.jpg",
-        "/images/living4.jpg",
-        "/images/room4.jpg",
-        "/images/extra4.jpg",
-        "/images/kitchen4.jpg"
+        "https://cozy-cabins-frontend.vercel.app/images/rent4.jpg",
+        "https://cozy-cabins-frontend.vercel.app/images/living4.jpg",
+        "https://cozy-cabins-frontend.vercel.app/images/room4.jpg",
+        "https://cozy-cabins-frontend.vercel.app/images/extra4.jpg",
+        "https://cozy-cabins-frontend.vercel.app/images/kitchen4.jpg"
       ]
     }
   ]

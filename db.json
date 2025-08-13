@@ -22,11 +22,11 @@
       "Bedroom": 2,
       "type": "Appartment",
       "images": [
-        "https://cozy-cabins-1.onrender.com/images/rent3.jpg",
-        "https://cozy-cabins-1.onrender.com/images/living1.jpg",
-        "https://cozy-cabins-1.onrender.com/images/room1.jpg",
-        "https://cozy-cabins-1.onrender.com/images/extra1.jpg",
-        "https://cozy-cabins-1.onrender.com/images/kitchen1.jpg"
+        "https://cozy-cabins-2.onrender.com/images/rent3.jpg",
+        "https://cozy-cabins-2.onrender.com/images/living1.jpg",
+        "https://cozy-cabins-2.onrender.com/images/room1.jpg",
+        "https://cozy-cabins-2.onrender.com/images/extra1.jpg",
+        "https://cozy-cabins-2.onrender.com/images/kitchen1.jpg"
       ]
     },
     {
@@ -37,11 +37,11 @@
       "Bedroom": 3,
       "type": "House",
       "images": [
-        "https://cozy-cabins-1.onrender.com/images/rent1.jpg",
-        "https://cozy-cabins-1.onrender.com/images/living3.jpg",
-        "https://cozy-cabins-1.onrender.com/images/room3.jpg",
-        "https://cozy-cabins-1.onrender.com/images/extra3.jpg",
-        "https://cozy-cabins-1.onrender.com/images/kitchen3.jpg"
+        "https://cozy-cabins-2.onrender.com/images/rent1.jpg",
+        "https://cozy-cabins-2.onrender.com/images/living3.jpg",
+        "https://cozy-cabins-2.onrender.com/images/room3.jpg",
+        "https://cozy-cabins-2.onrender.com/images/extra3.jpg",
+        "https://cozy-cabins-2.onrender.com/images/kitchen3.jpg"
       ]
     },
     {
@@ -52,11 +52,11 @@
       "Bedroom": 2,
       "type": "House",
       "images": [
-        "https://cozy-cabins-1.onrender.com/images/rent2.jpg",
-        "https://cozy-cabins-1.onrender.com/images/living2.jpg",
-        "https://cozy-cabins-1.onrender.com/images/room2.jpg",
-        "https://cozy-cabins-1.onrender.com/images/extra2.jpg",
-        "https://cozy-cabins-1.onrender.com/images/kitchen2.jpg"
+        "https://cozy-cabins-2.onrender.com/images/rent2.jpg",
+        "https://cozy-cabins-2.onrender.com/images/living2.jpg",
+        "https://cozy-cabins-2.onrender.com/images/room2.jpg",
+        "https://cozy-cabins-2.onrender.com/images/extra2.jpg",
+        "https://cozy-cabins-2.onrender.com/images/kitchen2.jpg"
       ]
     },
     {
@@ -67,11 +67,11 @@
       "Bedroom": 3,
       "type": "Appartment",
       "images": [
-        "https://cozy-cabins-1.onrender.com/images/rent4.jpg",
-        "https://cozy-cabins-1.onrender.com/images/living4.jpg",
-        "https://cozy-cabins-1.onrender.com/images/room4.jpg",
-        "https://cozy-cabins-1.onrender.com/images/extra4.jpg",
-        "https://cozy-cabins-1.onrender.com/images/kitchen4.jpg"
+        "https://cozy-cabins-2.onrender.com/images/rent4.jpg",
+        "https://cozy-cabins-2.onrender.com/images/living4.jpg",
+        "https://cozy-cabins-2.onrender.com/images/room4.jpg",
+        "https://cozy-cabins-2.onrender.com/images/extra4.jpg",
+        "https://cozy-cabins-2.onrender.com/images/kitchen4.jpg"
       ]
     }
   ]

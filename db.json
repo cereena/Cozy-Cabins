@@ -22,11 +22,11 @@
       "Bedroom": 2,
       "type": "Appartment",
       "images": [
-        "http://localhost:4000/images/rent3.jpg",
-        "http://localhost:4000/images/living1.jpg",
-        "http://localhost:4000/images/room1.jpg",
-        "http://localhost:4000/images/extra1.jpg",
-        "http://localhost:4000/images/kitchen1.jpg"
+        "https://cozy-cabins-1.onrender.com/images/rent3.jpg",
+        "https://cozy-cabins-1.onrender.com/images/living1.jpg",
+        "https://cozy-cabins-1.onrender.com/images/room1.jpg",
+        "https://cozy-cabins-1.onrender.com/images/extra1.jpg",
+        "https://cozy-cabins-1.onrender.com/images/kitchen1.jpg"
       ]
     },
     {
@@ -37,11 +37,11 @@
       "Bedroom": 3,
       "type": "House",
       "images": [
-        "http://localhost:4000/images/rent1.jpg",
-        "http://localhost:4000/images/living3.jpg",
-        "http://localhost:4000/images/room3.jpg",
-        "http://localhost:4000/images/extra3.jpg",
-        "http://localhost:4000/images/kitchen3.jpg"
+        "https://cozy-cabins-1.onrender.com/images/rent1.jpg",
+        "https://cozy-cabins-1.onrender.com/images/living3.jpg",
+        "https://cozy-cabins-1.onrender.com/images/room3.jpg",
+        "https://cozy-cabins-1.onrender.com/images/extra3.jpg",
+        "https://cozy-cabins-1.onrender.com/images/kitchen3.jpg"
       ]
     },
     {
@@ -52,11 +52,11 @@
       "Bedroom": 2,
       "type": "House",
       "images": [
-        "http://localhost:4000/images/rent2.jpg",
-        "http://localhost:4000/images/living2.jpg",
-        "http://localhost:4000/images/room2.jpg",
-        "http://localhost:4000/images/extra2.jpg",
-        "http://localhost:4000/images/kitchen2.jpg"
+        "https://cozy-cabins-1.onrender.com/images/rent2.jpg",
+        "https://cozy-cabins-1.onrender.com/images/living2.jpg",
+        "https://cozy-cabins-1.onrender.com/images/room2.jpg",
+        "https://cozy-cabins-1.onrender.com/images/extra2.jpg",
+        "https://cozy-cabins-1.onrender.com/images/kitchen2.jpg"
       ]
     },
     {
@@ -67,11 +67,11 @@
       "Bedroom": 3,
       "type": "Appartment",
       "images": [
-        "http://localhost:4000/images/rent4.jpg",
-        "http://localhost:4000/images/living4.jpg",
-        "http://localhost:4000/images/room4.jpg",
-        "http://localhost:4000/images/extra4.jpg",
-        "http://localhost:4000/images/kitchen4.jpg"
+        "https://cozy-cabins-1.onrender.com/images/rent4.jpg",
+        "https://cozy-cabins-1.onrender.com/images/living4.jpg",
+        "https://cozy-cabins-1.onrender.com/images/room4.jpg",
+        "https://cozy-cabins-1.onrender.com/images/extra4.jpg",
+        "https://cozy-cabins-1.onrender.com/images/kitchen4.jpg"
       ]
     }
   ]

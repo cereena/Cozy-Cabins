@@ -22,7 +22,7 @@
       "Bedroom": 2,
       "type": "Appartment",
       "images": [
-        "/images/images/rent3.jpg",
+        "/images/rent5.jpg",
         "/images/living1.jpg",
         "/images/room1.jpg",
         "/images/extra1.jpg",
@@ -73,6 +73,37 @@
         "/images/extra4.jpg",
         "/images/kitchen4.jpg"
       ]
+    },
+    {
+      "id": 5,
+      "title": "Residential Appartment in Vytilla",
+      "price": "₹6,900",
+      "location": "Vytilla",
+      "Bedroom": 3,
+      "type": "Appartment",
+      "images": [
+        "/images/rent7.jpg",
+        "/images/living7.jpg",
+        "/images/room7.jpg",
+        "/images/extra7.jpg",
+        "/images/kitchen7.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Residential Appartment in Kakkanad",
+      "price": "₹6,900",
+      "location": "Vytilla",
+      "Bedroom": 3,
+      "type": "Appartment",
+      "images": [
+        "/images/rent8.jpg",
+        "/images/living8.jpg",
+        "/images/room8.jpg",
+        "/images/extra8.jpg",
+        "/images/kitchen8.jpg"
+      ]
     }
+
   ]
 }
